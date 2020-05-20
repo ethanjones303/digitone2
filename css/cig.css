@@ -1,0 +1,63 @@
+body{
+	margin: 0;
+	background-color: #9B1E1E;
+	font-family: Helvetica, Arial, sans-serif;
+		font-size: 30px;
+}
+
+header{
+	background-color: #9B938F;
+	text-align: center;
+
+}
+
+h1, h2{
+	font-family: 'Inconsolata', monospace;}
+
+header h1{
+	color: white;
+	font-size: 50px;
+
+
+}
+
+header img{
+	border: 10px solid black;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+
+}
+
+h2{
+	font-size: 45px;
+	color: hotpink;
+}
+
+a{
+	color: hotpink;
+}
+
+a:hover{
+	color: blue;
+}
+
+main-img{
+	max-width: 100%;
+}
+
+footer{
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+
+
